@@ -1,0 +1,56 @@
+C:\Users\JeanCarlo\Documents\Visual Studio 2015\Projects\ProyectoIDiseno\ProyectoIDiseno\bin\Debug\ProyectoIDiseno.exe.config
+C:\Users\JeanCarlo\Documents\Visual Studio 2015\Projects\ProyectoIDiseno\ProyectoIDiseno\bin\Debug\ProyectoIDiseno.exe
+C:\Users\JeanCarlo\Documents\Visual Studio 2015\Projects\ProyectoIDiseno\ProyectoIDiseno\bin\Debug\ProyectoIDiseno.pdb
+C:\Users\JeanCarlo\Documents\Visual Studio 2015\Projects\ProyectoIDiseno\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.exe
+C:\Users\JeanCarlo\Documents\Visual Studio 2015\Projects\ProyectoIDiseno\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.pdb
+C:\Users\JeanCarlo\Documents\GitHub\Project_I_SF\Proyecto_Diseno_I\Code\ProyectoIDiseno\bin\Debug\ProyectoIDiseno.exe.config
+C:\Users\JeanCarlo\Documents\GitHub\Project_I_SF\Proyecto_Diseno_I\Code\ProyectoIDiseno\bin\Debug\ProyectoIDiseno.exe
+C:\Users\JeanCarlo\Documents\GitHub\Project_I_SF\Proyecto_Diseno_I\Code\ProyectoIDiseno\bin\Debug\ProyectoIDiseno.pdb
+C:\Users\JeanCarlo\Documents\GitHub\Project_I_SF\Proyecto_Diseno_I\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.csprojResolveAssemblyReference.cache
+C:\Users\JeanCarlo\Documents\GitHub\Project_I_SF\Proyecto_Diseno_I\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.exe
+C:\Users\JeanCarlo\Documents\GitHub\Project_I_SF\Proyecto_Diseno_I\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.pdb
+C:\Users\JeanCarlo\Desktop\Code\ProyectoIDiseno\bin\Debug\ProyectoIDiseno.exe.config
+C:\Users\JeanCarlo\Desktop\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.exe
+C:\Users\JeanCarlo\Desktop\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.pdb
+C:\Users\Felipe Mora\Documents\GitHub\Project_I_Diseno\Code\ProyectoIDiseno\bin\Debug\ProyectoIDiseno.exe.config
+C:\Users\Felipe Mora\Documents\GitHub\Project_I_Diseno\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.exe
+C:\Users\Felipe Mora\Documents\GitHub\Project_I_Diseno\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.pdb
+C:\Users\JeanCarlo\Documents\GitHub\Project_I_Diseno\Code\ProyectoIDiseno\bin\Debug\ProyectoIDiseno.exe.config
+C:\Users\JeanCarlo\Documents\GitHub\Project_I_Diseno\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.exe
+C:\Users\JeanCarlo\Documents\GitHub\Project_I_Diseno\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.pdb
+C:\Users\JeanCarlo\Documents\GitHub\Project_I_Diseno\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.csprojResolveAssemblyReference.cache
+C:\Users\JeanCarlo\Documents\GitHub\Project_I_Diseno\Code\ProyectoIDiseno\bin\Debug\ProyectoIDiseno.exe
+C:\Users\JeanCarlo\Documents\GitHub\Project_I_Diseno\Code\ProyectoIDiseno\bin\Debug\ProyectoIDiseno.pdb
+C:\Users\Andres\Documents\Diseno 2\Project_I_Diseno\Code\ProyectoIDiseno\bin\Debug\ProyectoIDiseno.exe.config
+C:\Users\Andres\Documents\Diseno 2\Project_I_Diseno\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.exe
+C:\Users\Andres\Documents\Diseno 2\Project_I_Diseno\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.pdb
+C:\Users\Andres\Documents\Diseno 2\Project_I_Diseno\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.csprojResolveAssemblyReference.cache
+C:\Users\Andres\Documents\Diseno 2\Project_I_Diseno\Code\ProyectoIDiseno\bin\Debug\ProyectoIDiseno.exe
+C:\Users\Andres\Documents\Diseno 2\Project_I_Diseno\Code\ProyectoIDiseno\bin\Debug\ProyectoIDiseno.pdb
+C:\Users\curso\Downloads\Project_I_Diseno-master\Code\ProyectoIDiseno\bin\Debug\ProyectoIDiseno.exe.config
+C:\Users\curso\Downloads\Project_I_Diseno-master\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.exe
+C:\Users\curso\Downloads\Project_I_Diseno-master\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.pdb
+C:\Users\curso\Downloads\Project_I_Diseno-master\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.csprojResolveAssemblyReference.cache
+C:\Users\curso\Downloads\Project_I_Diseno-master\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.View.FormIngresarCuenta.resources
+C:\Users\curso\Downloads\Project_I_Diseno-master\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.View.FormSeleccionIG.resources
+C:\Users\curso\Downloads\Project_I_Diseno-master\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.csproj.GenerateResource.Cache
+C:\Users\curso\Downloads\Project_I_Diseno-master\Code\ProyectoIDiseno\bin\Debug\ProyectoIDiseno.exe
+C:\Users\curso\Downloads\Project_I_Diseno-master\Code\ProyectoIDiseno\bin\Debug\ProyectoIDiseno.pdb
+C:\Users\curso\Desktop\Project_I_Diseno-master\Project_I_Diseno-master\Code\ProyectoIDiseno\bin\Debug\ProyectoIDiseno.exe.config
+C:\Users\curso\Desktop\Project_I_Diseno-master\Project_I_Diseno-master\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.exe
+C:\Users\curso\Desktop\Project_I_Diseno-master\Project_I_Diseno-master\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.pdb
+C:\Users\curso\Desktop\Project_I_Diseno-master\Project_I_Diseno-master\Code\ProyectoIDiseno\bin\Debug\ProyectoIDiseno.exe
+C:\Users\curso\Desktop\Project_I_Diseno-master\Project_I_Diseno-master\Code\ProyectoIDiseno\bin\Debug\ProyectoIDiseno.pdb
+C:\Users\curso\Desktop\Project_I_Diseno-master\Project_I_Diseno-master\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.csprojResolveAssemblyReference.cache
+C:\Users\curso\Desktop\Project_I_Diseno-master\Project_I_Diseno-master\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.View.FormIngresarCuenta.resources
+C:\Users\curso\Desktop\Project_I_Diseno-master\Project_I_Diseno-master\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.View.FormSeleccionIG.resources
+C:\Users\curso\Desktop\Project_I_Diseno-master\Project_I_Diseno-master\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.csproj.GenerateResource.Cache
+C:\Users\JeanCarlo\Downloads\Project_I_Diseno-master\Code\ProyectoIDiseno\bin\Debug\ProyectoIDiseno.exe.config
+C:\Users\JeanCarlo\Downloads\Project_I_Diseno-master\Code\ProyectoIDiseno\bin\Debug\ProyectoIDiseno.exe
+C:\Users\JeanCarlo\Downloads\Project_I_Diseno-master\Code\ProyectoIDiseno\bin\Debug\ProyectoIDiseno.pdb
+C:\Users\JeanCarlo\Downloads\Project_I_Diseno-master\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.csprojResolveAssemblyReference.cache
+C:\Users\JeanCarlo\Downloads\Project_I_Diseno-master\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.View.FormIngresarCuenta.resources
+C:\Users\JeanCarlo\Downloads\Project_I_Diseno-master\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.View.FormSeleccionIG.resources
+C:\Users\JeanCarlo\Downloads\Project_I_Diseno-master\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.csproj.GenerateResource.Cache
+C:\Users\JeanCarlo\Downloads\Project_I_Diseno-master\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.exe
+C:\Users\JeanCarlo\Downloads\Project_I_Diseno-master\Code\ProyectoIDiseno\obj\Debug\ProyectoIDiseno.pdb

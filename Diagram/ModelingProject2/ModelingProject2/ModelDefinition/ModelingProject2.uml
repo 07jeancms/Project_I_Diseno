@@ -1,0 +1,215 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modelStoreModel xmlns:dm0="http://schemas.microsoft.com/VisualStudio/2008/DslTools/Core" xmlns:dm1="http://schemas.microsoft.com/dsltools/Kernel" xmlns:dm2="http://schemas.microsoft.com/dsltools/Component" xmlns:dm3="http://schemas.microsoft.com/dsltools/Activity" xmlns:dm4="http://schemas.microsoft.com/dsltools/Interaction" xmlns:dm5="http://schemas.microsoft.com/dsltools/UseCase" xmlns:dm6="http://schemas.microsoft.com/dsltools/UmlModelLibrary" xmlns:dm7="http://schemas.microsoft.com/dsltools/UmlDiagrams" xmlns:dm8="http://schemas.microsoft.com/dsltools/LogicalClassDesigner"
+  dslVersion="1.0.0.0"
+  Id="1427b78c-7c3f-469e-8680-b7133c6b90d5"
+  name="ModelingProject2" xmlns="http://schemas.microsoft.com/dsltools/ModelStore">
+  <ownedCommentsInternal>
+    <comment
+      Id="3243a5e2-a5f4-4f5e-90d5-1a6dd7e28188">
+      <body>
+-Agregar atributos o metodo a las clases hijas en factory.
+-Pasar por parametro el dto a la vara de escritura.
+
+
+</body>
+    </comment>
+  </ownedCommentsInternal>
+  <appliedStereotypesInternal>
+    <stereotypeInstance
+      Id="c2dd845d-ad43-4604-9375-7c23d6d132e7"
+      name="namespace"
+      profile="CSharpProfile">
+      <propertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="b7b7e363-f630-48a3-82f9-55b4e885dcbb">
+          <propertyInstance
+            Id="35bf562b-aae1-4114-b8d6-065f00e8ed57"
+            name="BaseName" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="b4bb5c47-1446-4ace-a57b-9826d7b1df77">
+          <propertyInstance
+            Id="45c3ba98-78c3-4529-99a8-e18fc8e3535c"
+            name="ClrAttributes" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="c203b2c5-a905-4167-b136-9e8bf8bd1bc0">
+          <propertyInstance
+            Id="a4371c15-0270-4073-845f-5797f364cf43"
+            name="Usings" />
+        </stereotypeInstanceHasPropertyInstances>
+      </propertyInstances>
+    </stereotypeInstance>
+    <stereotypeInstance
+      Id="dbf2a7c6-4171-4b55-9a35-6c71ecc82a69"
+      name="TextTemplateBindings"
+      profile="TextTemplateBindings">
+      <propertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="15335aed-93d9-4ee2-905b-c3e66a24d0fd">
+          <propertyInstance
+            Id="3e373b80-cd37-4071-9359-393db6309c61"
+            name="Alias"
+            value="ClassTemplate|EnumTemplate|InterfaceTemplate|StructTemplate" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="18c3f488-901c-4290-a7b0-2b0b07a5f468">
+          <propertyInstance
+            Id="0a9923fd-d598-4220-a86f-fc351895b698"
+            name="TemplateFilePath"
+            value="ClassTemplate=C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\ClassTemplate.t4|EnumTemplate=C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\EnumTemplate.t4|InterfaceTemplate=C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\InterfaceTemplate.t4|StructTemplate=C:\PROGRAM FILES (X86)\MICROSOFT VISUAL STUDIO 14.0\COMMON7\IDE\EXTENSIONS\MICROSOFT\ARCHITECTURE TOOLS\EXTENSIBILITY\Templates\Text\StructTemplate.t4" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="d7fa0032-eb20-4c5c-9043-bd4aeb98a71c">
+          <propertyInstance
+            Id="2161262b-6e2a-4526-8fe1-8aece44365bb"
+            name="ProjectPath"
+            value="ClassTemplate=..\ModelingProject2Lib\ModelingProject2Lib.csproj|EnumTemplate=..\ModelingProject2Lib\ModelingProject2Lib.csproj|InterfaceTemplate=..\ModelingProject2Lib\ModelingProject2Lib.csproj|StructTemplate=..\ModelingProject2Lib\ModelingProject2Lib.csproj" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="74a8e47b-1e69-4a35-a449-4d3a96ac879a">
+          <propertyInstance
+            Id="22e0b50c-a759-4e53-9e09-5c689d36a90a"
+            name="TargetDirectory"
+            value="ClassTemplate=GeneratedCode\{PackageStructure}|EnumTemplate=GeneratedCode\{PackageStructure}|InterfaceTemplate=GeneratedCode\{PackageStructure}|StructTemplate=GeneratedCode\{PackageStructure}" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="34d8d0f8-ce86-4d1b-b79d-471963b944a1">
+          <propertyInstance
+            Id="595081b3-68ae-4e83-91ed-838c02306f8e"
+            name="TargetName"
+            value="ClassTemplate={Name}|EnumTemplate={Name}|InterfaceTemplate={Name}|StructTemplate={Name}" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="b403eb68-3f98-4a25-8432-92628a7f7aa0">
+          <propertyInstance
+            Id="8ceaf4b5-bec5-455e-8e4b-0faac9144928"
+            name="Overwrite"
+            value="ClassTemplate=True|EnumTemplate=True|InterfaceTemplate=True|StructTemplate=True" />
+        </stereotypeInstanceHasPropertyInstances>
+        <stereotypeInstanceHasPropertyInstances
+          Id="60195623-8526-4750-a5d4-d0302fd2f908">
+          <propertyInstance
+            Id="8adfa58b-a40c-4267-9db9-db11f2ccd9f7"
+            name="Parameters" />
+        </stereotypeInstanceHasPropertyInstances>
+      </propertyInstances>
+    </stereotypeInstance>
+  </appliedStereotypesInternal>
+  <profileInstances>
+    <packageHasProfileInstances
+      Id="0caec977-1f8c-4ba3-a7db-8cc9ad9cc73b">
+      <profileInstance
+        Id="e34d544e-0fea-4ed6-ac5e-1b74119ac791"
+        name="StandardProfileL2" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="29349502-908c-4fda-9054-c48619c59ed0">
+      <profileInstance
+        Id="532ea607-fb19-44b8-8502-3351b05452be"
+        name="StandardProfileL3" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="c3fcb28f-cea5-4080-9477-092e807b95e6">
+      <profileInstance
+        Id="22a9db5a-4395-40b5-94c7-8bdd926be8d8"
+        name="CSharpProfile" />
+    </packageHasProfileInstances>
+    <packageHasProfileInstances
+      Id="dc71f026-a19b-419b-a888-6c9ddd541937">
+      <profileInstance
+        Id="e3cd0af2-e0d8-49d1-90fb-3a0746ba3da8"
+        name="TextTemplateBindings" />
+    </packageHasProfileInstances>
+  </profileInstances>
+  <packagedElements>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="c9d89e7a-1412-41fd-92fc-c94c61566c8f"
+        name="float" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="93d99cee-18c9-43b6-aa74-6715b1f7543c"
+        name="int" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="c8e92728-7af7-490f-9b31-6c8742dcc9da"
+        name="Moneda" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="0c8b1d4e-e394-4f1d-831b-6e7d8e706a37"
+        name="LinkedList&lt;Cuenta&gt;" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="fbc6d54c-8da2-434b-8fb6-717e1475d6bd"
+        name="Cuenta" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="130ed56a-2a30-44bc-af21-c2a4ebb1ee70"
+        name="string" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="457df315-2574-4e5d-9d4e-2664d87f2104"
+        name="bool" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="bc5a54f6-d2ea-4265-8f8a-cb7dae145396"
+        name="ModelingProject1::Controller::Model::Moneda" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="5d3a29b4-2738-4c3f-b9e0-c9ece5e52fee"
+        name="TipoCuenta" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <undefinedType
+        Id="4a65ec1b-f994-40ce-9237-2ba0cc06de9d"
+        name="ModelingProject1::Controller::Model::TipoCuenta" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="de14a63e-70c8-478a-8c58-5513f9da5548"
+        LastKnownName="Controller"
+        LastKnownLocation="Package_0010.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="02f296fb-31be-4f92-88ec-3f0d7842485b"
+        LastKnownName="Model"
+        LastKnownLocation="Package1_0010.uml" />
+    </packageHasNamedElement>
+    <packageHasNamedElement>
+      <packageMoniker
+        Id="b110089b-e4cf-44f4-b56e-804cb6581869"
+        LastKnownName="View"
+        LastKnownLocation="Package2_0010.uml" />
+    </packageHasNamedElement>
+  </packagedElements>
+  <primitiveType
+    Id="220a3521-e091-4221-bae9-3ef9018e845c"
+    name="Integer"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="8943dc84-709e-4f62-b15a-a3273aa6f165"
+    name="Boolean"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="59259974-6d55-42c6-b7bd-763d77ac8ef9"
+    name="String"
+    isAbstract="false"
+    isLeaf="false" />
+  <primitiveType
+    Id="3ab42e7d-4969-445a-b209-471f5cb8209c"
+    name="UnlimitedNatural"
+    isAbstract="false"
+    isLeaf="false" />
+</modelStoreModel>
